@@ -47,7 +47,23 @@ The emotional advantage disappears because affective cues are harder to trust wh
 - **Tableau**: Dashboard and data visualization
 - **Qualtrics**: Survey delivery and randomization
 
-## Repository Structure
+sura-review-tone-experiment/
+│
+├── README.md
+│
+├── dashboard/
+│ ├── dashboard_overview.png
+│ └── tableau-public-link.md
+│
+├── data-cleaning-r/
+│ ├── clean_sura_data.R
+│ └── dummy_dataset.csv
+│
+├── statistical-analysis-spss/
+│ └── analysis_summary.md
+│
+└── poster/
+└── Omar_SURA_Poster.pdf
 
 
 
