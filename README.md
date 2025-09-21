@@ -63,12 +63,13 @@ The emotional advantage disappears because affective cues are harder to trust wh
 ## Recommendations
 
 Use this research to improve how product reviews are structured and surfaced online.
+- If you **manage marketing for lifestyle or sensory products** (e.g., beauty, fragrance, leisure tech), **curate and promote emotional reviews** when customer ratings are consistent.
 
-- **Match tone to product type**. Emotional reviews are better suited for hedonic products. For utilitarian items, functional reviews perform equally well or better when variance is high.
-- **Do not assume emotional tone always wins**. It has no advantage under high variance or for practical products.
-- **Use functional tone to reduce risk perception**. When rating variance is high, functional language increases trust, especially for utilitarian items.
-- **Prioritize written reviews over stars**. Participants relied more on review content than star averages. Highlight well-written reviews near the top of product pages.
-- **Test tone-product combinations before launch**. Small changes in tone or presentation can shift intent. This is especially important for new products in categories with diverse consumer expectations.
+- If you **work with practical or performance-based products** (e.g., electronics, tools, accessories) and your reviews are inconsistent, **downplay functional review content** in your product display.
+
+- If you **sell utilitarian products with consistently high ratings**, **focus on pricing, shipping, or guarantee messaging** instead of managing consumers’ reviews and tone visibility.
+
+- If you **design review displays or recommendation engines**, **feature well-written review content above star summaries** to support better product evaluations since participants rated written reviews as more influential than star ratings on average.
 
 ## Dashboard
 
