@@ -1,4 +1,4 @@
-# SURA Review Tone Experiment
+# SURA Online Reviews Experiment
 
 This repository contains a research project conducted under the Summer Undergraduate Research Apprenticeship (SURA) at Carnegie Mellon University. The study tests how online review tone, product type, and rating variance affect consumer purchase intent and product attitude.
 
