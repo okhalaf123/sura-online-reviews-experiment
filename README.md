@@ -59,7 +59,6 @@ The emotional advantage disappears because affective cues are harder to trust wh
   - Attitude *(p = .011)*
   - Purchase Intent *(p = .042)*
 - **Gender differed significantly across conditions** *(p = .030)*
-- **Written reviews influenced decisions more** than star ratings
 
 ## Recommendations
 
@@ -84,6 +83,7 @@ The dashboard includes:
 - Attitude and purchase intent breakdowns
 - Filters for tone, product, and variance
 - Comparison of written review vs. star rating influence
+- Demographics breakdown
 - Key findings panel
 
 ## Author
