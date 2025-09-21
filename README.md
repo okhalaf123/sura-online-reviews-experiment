@@ -73,7 +73,7 @@ Use this research to improve how product reviews are structured and surfaced onl
 ## Dashboard
 
 View the full interactive Tableau dashboard here:  
-🔗 [Insert Tableau Public Link](https://public.tableau.com/your-dashboard-link)
+🔗 [Insert Tableau Public Link](https://public.tableau.com/views/WouldYouBuyThatOnlineReviewsandPurchaseIntentDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📸 Preview:  
 ![Dashboard Screenshot](dashboard/dashboard_overview.png)
