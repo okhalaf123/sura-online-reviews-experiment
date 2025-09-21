@@ -26,13 +26,19 @@ The study simulates online product pages. Participants see different combination
 
 ### H1
 
-**For utilitarian products, functional review tone will lower purchase intent and attitude compared to emotional tone.**  
-This prediction is based on **Expectancy Violations Theory (EVT)** and prior work on product-review fit. People expect functional tone for utilitarian products. Violating that expectation with emotional language can trigger more attention and improve evaluations. Past studies show emotional reviews reduce the negative impact of low ratings for utilitarian products.
+**For utilitarian products under low-variance conditions, functional tone will lower product evaluations compared to emotional tone.**
+
+When star ratings show low variance, consumers trust that most reviews agree. For utilitarian products like a USB, people focus on performance. Functional reviews match this mindset. If they include criticism, that criticism appears more credible and serious.
+
+In contrast, emotional reviews are easier to dismiss. Negative content seems subjective or mood-driven. Emotional framing also evokes a positive feeling, which can raise overall product attitude. This makes emotional tone more persuasive than functional tone under low risk.
 
 ### H2
 
-**The effect of tone is moderated by variance. The tone × product interaction appears only under low rating variance, not high variance.**  
-High variance signals risk. When variance is high, the benefit of emotional tone diminishes. Consumers seek clarity. In these cases, functional tone becomes more effective, especially for utilitarian products. Prior work shows that functional language can reduce risk perception under uncertainty.
+**This tone × product effect will disappear under high variance.**
+
+When star ratings are spread out, consumers become cautious. They seek clear, diagnostic cues. Emotional tone loses power in this context. Functional tone becomes more useful. In these high-variance settings, functional reviews do not hurt utilitarian products the same way they do under low variance.
+
+The emotional advantage disappears because affective cues are harder to trust when risk is high.
 
 ## Tools
 
@@ -42,4 +48,6 @@ High variance signals risk. When variance is high, the benefit of emotional tone
 - **Qualtrics**: Survey delivery and randomization
 
 ## Repository Structure
+
+
 
