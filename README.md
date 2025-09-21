@@ -47,23 +47,51 @@ The emotional advantage disappears because affective cues are harder to trust wh
 - **Tableau**: Dashboard and data visualization
 - **Qualtrics**: Survey delivery and randomization
 
-sura-review-tone-experiment/
-│
-├── README.md
-│
-├── dashboard/
-│ ├── dashboard_overview.png
-│ └── tableau-public-link.md
-│
-├── data-cleaning-r/
-│ ├── clean_sura_data.R
-│ └── dummy_dataset.csv
-│
-├── statistical-analysis-spss/
-│ └── analysis_summary.md
-│
-└── poster/
-└── Omar_SURA_Poster.pdf
+
+## Key Insights
+
+- **Review tone alone does not affect purchase intent** for utilitarian products under low variance. H1 was not supported.
+- **Three-way interaction was significant** for purchase intent *(p = .039)*. It was marginally significant for attitude *(p = .059)*.
+- Under **high variance and functional tone**, hedonic products scored higher than utilitarian:
+  - Attitude *(p = .003)*
+  - Purchase Intent *(p = .007)*
+- Under **low variance and emotional tone**, hedonic again outperformed utilitarian:
+  - Attitude *(p = .011)*
+  - Purchase Intent *(p = .042)*
+- **Gender differed significantly across conditions** *(p = .030)*
+- **Written reviews influenced decisions more** than star ratings
+
+## Recommendations
+
+Use this research to improve how product reviews are structured and surfaced online.
+
+- **Match tone to product type**. Emotional reviews are better suited for hedonic products. For utilitarian items, functional reviews perform equally well or better when variance is high.
+- **Do not assume emotional tone always wins**. It has no advantage under high variance or for practical products.
+- **Use functional tone to reduce risk perception**. When rating variance is high, functional language increases trust, especially for utilitarian items.
+- **Prioritize written reviews over stars**. Participants relied more on review content than star averages. Highlight well-written reviews near the top of product pages.
+- **Test tone-product combinations before launch**. Small changes in tone or presentation can shift intent. This is especially important for new products in categories with diverse consumer expectations.
+
+## Dashboard
+
+View the full interactive Tableau dashboard here:  
+🔗 [Insert Tableau Public Link](https://public.tableau.com/your-dashboard-link)
+
+📸 Preview:  
+![Dashboard Screenshot](dashboard/dashboard_overview.png)
+
+The dashboard includes:
+- All 8 experimental conditions
+- Attitude and purchase intent breakdowns
+- Filters for tone, product, and variance
+- Comparison of written review vs. star rating influence
+- Key findings panel
+
+## Author
+
+Omar Khalaf  
+Carnegie Mellon University Qatar  
+Business Administration
+
 
 
 
